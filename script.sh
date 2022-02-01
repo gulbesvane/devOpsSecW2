@@ -79,3 +79,7 @@ echo "----------------------------------------" >> README.md
 echo "----------------------------------------" >> README.md
 echo "To run the script.sh run: bash script.sh" >> README.md
 cat README.md
+
+#17.Update the job to show a message in the terminal saying 
+# "Job completed" when the job has finished running
+echo "Job completed"
