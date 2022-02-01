@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# 8. Update your bash script to delete fol_1, fol_2, fol_2 when it starts
+
+rm fol_1
+rm fol_2
+
 # 3. reate 2 folders called fol_1, fol_2
 mkdir fol_1
 mkdir fol_2
